@@ -12,7 +12,7 @@
         "changelog": "v1.4.0 TEST 3 UPDATE: SECURITY FIXED - Updated SixLabors.ImageSharp to 3.1.9 (CVE vulnerability resolved), cleaned up configuration files, enhanced embedded resources, improved build stability with 30 warnings (down from 32), and ensured all dependencies are secure and up-to-date.",
         "targetAbi": "10.10.0.0",
         "sourceUrl": "https://github.com/Kuschel-code/JellyfinUpscalerPlugin/archive/refs/heads/main.zip",
-        "checksum": "A1B2C3D4E5F6789012345678901234567890ABCD",
+        "checksum": "264022116FEEE5C5A929E1F7DE7E1925",
         "timestamp": "2025-01-23T22:00:00.000Z"
       }
     ],
